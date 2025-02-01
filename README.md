@@ -213,6 +213,8 @@ This project is licensed under the MIT License. See the [MIT](LICENSE) file for 
   For the hand-tracking solution.
 - **OpenCV:**  
   For real-time video capture and image processing.
+- **Youtube reference:** <br>
+  https://www.youtube.com/watch?v=Fvg-v8FPcjg
 - **Adafruit:**  
   For the SSD1306 and GFX libraries that simplify OLED interfacing.
 - **ESP32 Community:**  
